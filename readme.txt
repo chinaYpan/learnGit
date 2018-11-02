@@ -5,4 +5,4 @@ Git is free software.
 测试缓存区
 是发的发生的发
 这里添加了一句话
-测试这个分支的作用。
+测试这个分支的作用jkjhgfgh
